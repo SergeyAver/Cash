@@ -1,7 +1,5 @@
 package ru.netology.service;
 
-import org.testng.Assert.*;
-
 import org.junit.Test;
 
 import static org.junit.Assert.*;
